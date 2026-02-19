@@ -8,6 +8,7 @@ I also have a lot of magazines.  I'm in the process of ridding our house of most
 - Subscribe to digital versions of magazines
 - Find digital versions of magazines I want to get rid of
 - Scan and create PDFs of copies I can't find online
+- Sell or recyle the magazines I saved as PDFs
 <!--
 **enigma4000/enigma4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
