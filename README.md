@@ -1,5 +1,8 @@
-### Hi there 👋
+Hi, my name is Mike; and I was an electronic technician for 45 years, at Control Data, and then General Dynamics when they bought our division.  I retired in 2023.  I always wished I had gotten into programming as a career; and now I'll have time to pursue it as a hobby.
 
+I'm currently working on a terminal emulator called Noughty Bits.  We used Tera Term a lot at work; but there were things I wish it was better at, so I started my own program, written in Python.
+
+Two other areas I plan to study with all of my free time are AI and Bug Bounty Hunting.
 <!--
 **enigma4000/enigma4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
