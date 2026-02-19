@@ -3,6 +3,11 @@ Hi, my name is Mike; and I was an electronic technician for 45 years, at Control
 I'm currently working on a terminal emulator called Noughty Bits.  We used Tera Term a lot at work; but there were things I wish it was better at, so I started my own program, written in Python.
 
 Two other areas I plan to study with all of my free time are AI and Bug Bounty Hunting.
+
+I also have a lot of magazines.  I'm in the process of ridding our house of most physical copies of magazines.  This consists of several steps:
+- Subscribe to digital versions of magazines
+- Find digital versions of magazines I want to get rid of
+- Scan and create PDFs of copies I can't find online
 <!--
 **enigma4000/enigma4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
